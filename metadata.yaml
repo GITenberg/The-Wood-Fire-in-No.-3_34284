@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/444
     wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34284#The-Wood-Fire-in-No.-3
 gutenberg_issued: '2010-11-11'
 gutenberg_type: Text
 identifiers:
