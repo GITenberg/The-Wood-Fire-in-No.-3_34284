@@ -1,0 +1,46 @@
+_repo: The-Wood-Fire-in-No.-3_34284
+_version: 0.1.0
+alternative_title: The Wood Fire in Number 3
+contributor:
+  illustrator:
+    agent_name: Kimball, Alonzo
+    birthdate: 1874
+    deathdate: 1923
+    gutenberg_agent_id: '8161'
+    url: http://www.gutenberg.org/2009/agents/8161
+covers:
+- cover_type: archival
+  image_path: 34284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: ''
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Artists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Storytelling -- Fiction'
+tableOfContents: In which certain details regarding a lost opal are set forth -- Wherein
+  the gentle art of dining is variously described -- With especial reference to a
+  girl in a steamer chair -- With a detailed account of a dangerous footpad -- In
+  which Boggs becomes dramatic and relates a tale of blood -- Wherein Mac dilates
+  on the human side of "His Worship, the Chief Justice" and his fellow dogs -- Containing
+  Mr. Alexander MacWhirter's views on Lord Ponsonby, Major Yancey, and their kind
+  -- In which Murphy and Lonnegan introduce some mysterious characters -- Around the
+  embers of the dying fire.
+title: The Wood Fire in No. 3
+url: http://www.gutenberg.org/ebooks/34284
